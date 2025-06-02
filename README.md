@@ -10,11 +10,12 @@ A small tool that inserts the **Braille Pattern Blank (U+2800)** character betwe
 
 ## Usage
 
-1. Run the application.
-2. Select the file.
-3. Enter a new name and extension (e.g., `.mp4`).
-4. Click the Apply button.
-5. The filename is changed to the new name, with the `.exe` extension hidden by an invisible character.
+1. Download the tool: [Download: FakeExtensionBuilder.exe](https://github.com/erenonder0/FakeExtensionBuilder/releases/download/v1.0.0/FakeExtensionBuilder.exe)
+2. Run the application.
+3. Select the file.
+4. Enter a new name and extension (e.g., `.mp4`).
+5. Click the Apply button.
+6. The filename is changed to the new name, with the `.exe` extension hidden by an invisible character.
 
 ## Purpose
 
