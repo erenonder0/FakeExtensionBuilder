@@ -10,7 +10,7 @@ A small tool that inserts the **Braille Pattern Blank (U+2800)** character betwe
 
 ## Usage
 
-1. Download the tool: [Download: FakeExtensionBuilder.exe](https://github.com/erenonder0/FakeExtensionBuilder/releases/download/v1.0.0/FakeExtensionBuilder.exe)
+1. [Download the tool: FakeExtensionBuilder.exe](https://github.com/erenonder0/FakeExtensionBuilder/releases/download/v1.0.0/FakeExtensionBuilder.exe)
 2. Run the application.
 3. Select the file.
 4. Enter a new name and extension (e.g., `.mp4`).
